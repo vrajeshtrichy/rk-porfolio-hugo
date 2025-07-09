@@ -24,9 +24,34 @@ profile.cov
 go.work
 go.work.sum
 
-# env file
+# Environment files
 .env
 
 # Editor/IDE
-# .idea/
-# .vscode/
+.idea/
+.vscode/
+
+# Hugo build output
+public/
+resources/
+hugo_stats.json
+
+# Hugo cache
+.cache/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# Netlify configuration
+netlify.toml
+
+# GitHub Actions workflows
+.github/
