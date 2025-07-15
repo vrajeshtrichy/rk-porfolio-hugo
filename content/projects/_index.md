@@ -9,6 +9,6 @@ cascade:
   showTaxonomies: true
 ---
 
-Here's a selection of things that I've built or worked on as a core team member 👨‍💻🔨.
+Here's a selection of things that I've built or worked on 👨‍💻🔨.
 
 For my other contributions and stuff still in progress, check out my [GitHub](https://github.com/adam-sroka/) {{< icon "github" >}} profile.

@@ -1,5 +1,5 @@
 ---
-title: "Education"
+title: "Education and Certifications"
 description: Education of Rajesh Kanna
 layout: "simple"
 ---
@@ -30,7 +30,35 @@ Gained hands-on expertise in NLP, covering advanced techniques in text processin
 
 Comprehensive postgraduate education in AI, machine learning, deep learning, and data-driven innovation. My thesis focused on multi-agent reinforcement learning systems and Generative AI models.
 
-## BTech in Mechanical Engineering
-**SASTRA University, IN  :  2017**
+# Additional
+## Generative AI and Natural Language Processing (NLP)
+**ChatGPT Prompt Engineering for Developers**
 
-Laid the foundational knowledge in statistics, robotics and analytics, sparking my passion for AI and data science.
+**Building Systems with the ChatGPT API**
+
+**Advanced NLP with Python for Machine Learning**
+
+## Machine learning and AI
+**Microsoft Certified: Azure AI Engineer Associate**
+
+**Microsoft Certified: Azure AI Fundamentals**
+
+**MLOps Essentials: Model Development and Integration**
+
+**Machine Learning for iOS: Core ML and Create ML**
+
+**Al for Everyone Certification**
+
+**Machine Learning Certification by Stanford University**
+
+## Coding
+**Python Data Structures and Algorithms**
+
+**Data Structures and Algorithms with Python**
+
+**Java Developer Certification**
+
+## Product Design & Analysis
+**Foundation in 3DS Max**
+
+**Master Diploma in Product Design and Analysis**
