@@ -13,8 +13,6 @@ _build:
   list: "local"
 ---
 
-# Dutch to English Machine Translation using PyTorch Seq2Seq RNN
-
 This repository contains a machine translation project that translates Dutch sentences into English using PyTorch and a Sequence-to-Sequence (Seq2Seq) Recurrent Neural Network (RNN) model with attention.
 
 ## Dataset

@@ -13,8 +13,6 @@ _build:
   list: "local"
 ---
 
-# AI-ML-NLP-TextGeneration Repository
-
 This repository contains two Jupyter notebook projects focused on text summarization using various NLP techniques.
 
 ## Project 1: Text Summarization using Hugging Face Transformers

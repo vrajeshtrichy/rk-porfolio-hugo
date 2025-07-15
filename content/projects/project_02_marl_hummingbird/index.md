@@ -14,10 +14,6 @@ _build:
   list: "local"
 ---
 
-# AI-ML Multi-Agent Reinforcement Learning with UnityML - Hummingbirds
-
-## Overview
-
 This project is a multi-agent reinforcement learning environment built using Unity ML-Agents. It simulates the behavior of hummingbirds in a dynamic environment, where they learn to collect nectar from flowers through reinforcement learning.
 
 ### Features

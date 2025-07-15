@@ -14,8 +14,6 @@ _build:
   list: "local"
 ---
 
-# IMDB Reviews Sentiment Analysis using Transformers (BERT)
-
 This project is an example of sentiment analysis on the IMDB dataset using Transformers and BERT.
 
 ## Introduction
