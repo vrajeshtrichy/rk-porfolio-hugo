@@ -62,6 +62,3 @@ Comprehensive postgraduate education in AI, machine learning, deep learning, and
 **Foundation in 3DS Max**
 
 **Master Diploma in Product Design and Analysis**
-
-
-
