@@ -30,11 +30,6 @@
   pageRef = "education"
   weight = 40
 
-  [[main]]
-    name = "Certifications"
-    pageRef = "certifications"
-    weight = 50
-
 [[main]]
   identifier = "search"
   weight = 99

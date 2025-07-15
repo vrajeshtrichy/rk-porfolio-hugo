@@ -26,12 +26,6 @@
   
     
       <url>
-            <loc>http://localhost:1313/certifications/</loc>
-          </url>
-    
-  
-    
-      <url>
             <loc>http://localhost:1313/education/</loc>
           </url>
     
