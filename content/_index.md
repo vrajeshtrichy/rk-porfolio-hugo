@@ -15,11 +15,11 @@ I am actively looking for a postdoc position, ideally (i) starting between Octob
 
 <br>
 
-Hello, I'm a Senior Data Scientist and Generative AI Engineer with a Master's degree in Artificial Intelligence and Machine Learning. At [Altimetrik](https://www.altimetrik.com/), I specialize in leveraging cutting-edge AI technologies to solve complex problems and drive innovation.
+Hello, I'm a Senior Data Scientist and Generative AI Engineer with a Master's degree in Artificial Intelligence and Machine Learning, currently working at [Altimetrik](https://www.altimetrik.com/). I specialize in leveraging cutting-edge AI technologies to solve complex problems and drive innovation.
 
 <br>
 
-{{< button href="/about/" target="_self" >}} Learn more {{< /button >}}
+<!-- {{< button href="/about/" target="_self" >}} Learn more {{< /button >}} -->
 
 <div style="max-width: 800px; margin: 20px auto; padding: 20px; border: 1px solid #EEE; background-color: #f9f9f9; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);">
   <p>For any questions or inquiries, feel free to reach out via <a href="xxx@yyy.com">email</a> 💌</p>
