@@ -52,6 +52,3 @@ node_modules/
 
 # Netlify configuration
 netlify.toml
-
-# GitHub Actions workflows
-.github/
