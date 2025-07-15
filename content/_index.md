@@ -15,7 +15,7 @@ I am actively looking for a postdoc position, ideally (i) starting between Octob
 
 <br>
 
-Hello, I'm a Data Scientist & GenAI Engineer with a Master's degree in AI and Machine Learning, currently working at [Altimetrik](https://www.altimetrik.com/).
+Hello, I'm a Senior Data Scientist and Generative AI Engineer with a Master's degree in Artificial Intelligence and Machine Learning. At [Altimetrik](https://www.altimetrik.com/), I specialize in leveraging cutting-edge AI technologies to solve complex problems and drive innovation.
 
 <br>
 
